@@ -102,7 +102,7 @@ A Flask-based gym management web application developed as my CS50 final project.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/mohammadfawazgoat
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/mohammad-fawaz-57aaa3357/
 
 ---
 
