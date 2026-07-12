@@ -62,6 +62,7 @@ Algorithms include:
 - Linear Regression
 - Multiple Linear Regression
 - Logistic Regression
+- Support Vector Machine Classifier
 - More coming soon...
 
 ---
